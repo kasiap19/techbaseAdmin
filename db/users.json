@@ -1,0 +1,14 @@
+{
+  "member1" : {
+    "name":"Kasia",
+    "lastName":"Pieniazek",
+    "username":"kasiap19",
+    "password":"111"
+  },
+  "member2" : {
+    "name":"Viktoryia",
+    "lastName":"Nikolova",
+    "username":"Vik",
+    "password":"000"
+  }
+}
